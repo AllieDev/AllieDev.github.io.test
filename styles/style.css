@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(233, 215, 207);
+  text-align: center;
+}
+
+header {
+  margin: none;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: "Oswald", sans-serif;
+  margin-bottom: 50px;
+  color: orangered;
+}
+
+#description {
+  margin: 36px;
+}
+
+ol {
+  margin-bottom: 100px;
+  list-style: none;
+}
+
+li {
+  font-family: "Fira Sans", sans-serif;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  background-color: orangered;
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+  color: rgb(255, 197, 197);
+  border: 1px solid rgb(167, 1, 78);
+}
+a:hover {
+  background-color: rgba(255, 106, 52, 0.743);
+  border-radius: 8px;
+  text-decoration: underline;
+}
